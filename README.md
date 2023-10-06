@@ -1,5 +1,5 @@
-# Template01: Multi-Purpose Web Template
-This repository contains the source code of Template03 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
+# Template02: Multi-Purpose Web Template
+This repository contains the source code of Template02 from the collection of 100 free templates. The template is designed to serve a multitude of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more.
 
 ## Demo https://templates02.netlify.app/
 
@@ -14,7 +14,7 @@ The primary objective of contributing this template to open source is to provide
 - **Rich Components:** Includes essential elements for portfolios, e-commerce, and blogs.
 - **Accessibility:** Designed with accessibility in mind, making it user-friendly for everyone.
 
-## Demo url [https://templates01.netlify.app/](https://templates2.netlify.app/)
+## Demo https://templates2.netlify.app/
 
 ## SnapShot
 
