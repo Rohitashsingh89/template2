@@ -1,4 +1,4 @@
-# Personal Branding Website
+# Personal Branding Website 02
 This repository contains the source code of Template02 from the collection of 100 free templates. The template is designed to cater to a wide range of purposes, including professional portfolios, e-commerce websites, blogging platforms, and more. 
 
 Demo url [https://templates01.netlify.app/](https://templates2.netlify.app/)
