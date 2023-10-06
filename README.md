@@ -14,9 +14,8 @@ The primary objective of contributing this template to open source is to provide
 - **Rich Components:** Includes essential elements for portfolios, e-commerce, and blogs.
 - **Accessibility:** Designed with accessibility in mind, making it user-friendly for everyone.
 
-Demo url [https://templates01.netlify.app/](https://templates2.netlify.app/)
-## SnapShot
-![Templates2](https://github.com/Rohitashsingh89/template2/assets/93479842/a8836f56-2ad1-4ef0-994a-d44246cacb43)
+## Demo url [https://templates01.netlify.app/](https://templates2.netlify.app/)
+
 ## SnapShot
 
 <img src="https://github.com/Rohitashsingh89/template2/assets/93479842/a8836f56-2ad1-4ef0-994a-d44246cacb43" alt="Templates03" height="300">
