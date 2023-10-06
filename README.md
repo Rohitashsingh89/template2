@@ -56,7 +56,7 @@ If you find any issues or have suggestions for improvement, feel free to open an
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/Rohitashsingh89/LICENSE.MD/blob/main/README.md).
 
 ## Why Open Source?
 
